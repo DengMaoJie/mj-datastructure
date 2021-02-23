@@ -9,8 +9,5 @@
         <module name="mj-datastructure" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="mj-datastructure" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
